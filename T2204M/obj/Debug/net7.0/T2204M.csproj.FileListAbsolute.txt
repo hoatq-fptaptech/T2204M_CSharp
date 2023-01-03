@@ -1,0 +1,15 @@
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/bin/Debug/net7.0/T2204M
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/bin/Debug/net7.0/T2204M.deps.json
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/bin/Debug/net7.0/T2204M.runtimeconfig.json
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/bin/Debug/net7.0/T2204M.dll
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/bin/Debug/net7.0/T2204M.pdb
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/T2204M.csproj.AssemblyReference.cache
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/T2204M.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/T2204M.AssemblyInfoInputs.cache
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/T2204M.AssemblyInfo.cs
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/T2204M.csproj.CoreCompileInputs.cache
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/T2204M.dll
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/refint/T2204M.dll
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/T2204M.pdb
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/T2204M.genruntimeconfig.cache
+/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/obj/Debug/net7.0/ref/T2204M.dll
