@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="session1\" />
+    <None Remove="session2\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="session1\" />
+    <Folder Include="session2\" />
   </ItemGroup>
 </Project>

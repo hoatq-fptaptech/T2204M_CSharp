@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{285F4C34-F685-460D-A68A-44373C2A9D14}|Default">
-  <MonoDevelop.Ide.ItemProperties.T2204M FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.T2204M PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="T2204M/Program.cs">
+    <Files>
+      <File FileName="T2204M/session1/Human.cs" Line="16" Column="48" />
+      <File FileName="T2204M/Program.cs" Line="40" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T2204M" expanded="True">
+            <Node name="T2204M" expanded="True">
+              <Node name="session1" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

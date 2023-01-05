@@ -1,7 +1,39 @@
 ﻿using T2204M.session1;
+using T2204M.session2;
+using System.Collections.Generic;
 public class Program
 {
     public static void Main(string[] args)
+    {
+        //Dog d = new Dog();
+        //d.SetKind("DOG");
+        //d.Info();
+        Dog d = new Dog("Dog", 12);
+        d.Weight = 10;
+        d.Color = "yellow";
+        Console.WriteLine(d.Weight);
+        Console.WriteLine(d.Color);
+        Dog[] dd = new Dog[10];
+
+        for(int i = 0; i < dd.Length; i++)
+        {
+            dd[i] = new Dog();
+        }
+       // dd[0].Weight = 20;
+
+        foreach(Dog o in dd)
+        {
+            o.Color = "green";
+        }
+
+        List<Dog> ls = new List<Dog>();
+        ls.Add(new Dog());
+        Console.WriteLine(ls.Count);// .Count -> kich thuoc tap hop
+        List<int> ints = new List<int>();
+
+    }
+
+    public static void Main2(string[] args)
     {
         
         double y = 3.14;
