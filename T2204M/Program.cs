@@ -1,9 +1,74 @@
 ﻿using T2204M.session1;
 using T2204M.session2;
 using System.Collections.Generic;
+using T2204M.session3;
+using T2204M.session4;
 public class Program
 {
     public static void Main(string[] args)
+    {
+        //DemoDelegate.Alert("Cam thanh vien duoi 18 tuoi");
+        //DemoDelegate d = new DemoDelegate();
+        //d.ShowMessage("Canh bao lan thu nhat");
+        PrintString ps = new PrintString(ShowDanger);
+        //ps("Nguy hiem lam");
+        //ShowDanger("Nguy hiem lam");
+        //PrintString ps1 = new PrintString(DemoDelegate.Alert);
+        // PrintString ps2 = new PrintString(new DemoDelegate().ShowMessage);
+
+        ps += DemoDelegate.Alert;
+        ps += new DemoDelegate().ShowMessage;
+
+        ps("Nguy hiem lam");
+
+        ps += (s) =>
+        {
+            Console.WriteLine("Anonymus: " + s);
+        };
+
+        ps += delegate (string s) {
+            Console.WriteLine("Anonymus2: " + s);
+        };
+
+        PrintString ps3 = delegate (string s){
+
+	    };
+
+        Button de = new Button(ps3);
+        de.ClickAction();
+    }
+
+    public static void ShowDanger(string mg)
+    {
+        Console.WriteLine("Danger: " + mg);
+    }
+
+    public static void Main4(string[] args)
+    {
+        Car c = new Car() { Brand = "Toyota",Type="Sedan"};
+        Console.WriteLine(c.machines[0]);
+        Console.WriteLine(c[1]);
+        //Console.WriteLine(c[2]);
+        // c[2] = "Led";
+        c.machines.Add("Led");
+        try
+        {
+            int x = 10;
+            int y = 0;
+            if (y == 0)
+            {
+                throw new Exception("Error...");
+            }
+            Console.WriteLine("x/y = ");
+            int z = x / y;
+            Console.WriteLine(z);
+        }catch(Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+    }
+
+    public static void Main2(string[] args)
     {
         //Dog d = new Dog();
         //d.SetKind("DOG");
@@ -33,7 +98,7 @@ public class Program
 
     }
 
-    public static void Main2(string[] args)
+    public static void Main3(string[] args)
     {
         
         double y = 3.14;
@@ -79,5 +144,18 @@ public class Program
         Human h = new Human();
         h.name = "Nguyen Van An";
         h.Run();
+    }
+}
+
+namespace T2204M.session3
+{
+    public class Moto
+    {
+
+    }
+
+    public class Bike
+    {
+
     }
 }
