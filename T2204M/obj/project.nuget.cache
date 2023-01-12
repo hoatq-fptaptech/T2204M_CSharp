@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ok2QkK15VI9U03plwwrH9D/AjkSXgmy3Q5oekM45ctJEidNwvGqLnjOOoG2KED9WcnowfBE3uKfLTZCuKsTVVw==",
+  "dgSpecHash": "Yrcbu0ius6CJZLpcBHGceNI1pGsJytZkHOK57/e3/7tgLubsKw4zoYxGtHLjvDpwN7FvjLKHAQ61gSygW98fQw==",
   "success": true,
   "projectFilePath": "/Volumes/STORAGE/Aptech/SEM 2/T2204M_CSharp/T2204M/T2204M/T2204M.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{285F4C34-F685-460D-A68A-44373C2A9D14}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="T2204M/Program.cs">
     <Files>
-      <File FileName="T2204M/Program.cs" Line="22" Column="14" />
-      <File FileName="T2204M/session3/Car.cs" Line="14" Column="25" />
+      <File FileName="T2204M/session4/DemoDelegate.cs" Line="12" Column="1" />
+      <File FileName="T2204M/Program.cs" Line="29" Column="36" />
+      <File FileName="T2204M/session4/DemoEvent.cs" Line="10" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,18 +14,17 @@
               <Node name="session1" expanded="True" />
               <Node name="session2" expanded="True" />
               <Node name="session3" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="session4" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.T2204M PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.T2204M PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
